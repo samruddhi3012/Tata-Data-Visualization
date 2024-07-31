@@ -13,6 +13,11 @@ The program is designed to enhance your data visualization skills through follow
 * Tools : Tableau
 * Keywords: Data Analysis, Data Visualization, Data Interpretation 
 
+## :bulb: Dashboard
+The dashboard created :
+![Dashboard](https://github.com/user-attachments/assets/af9ff20e-e3ec-4989-8ac7-6e917096d461)
+
+
 ## :bulb: Description 
 This section describes the steps taken to perform and visualize the data and the accomplishments achieved during the program.
 
@@ -31,8 +36,6 @@ This section describes the steps taken to perform and visualize the data and the
 #### :dart: Task 4 - Communicating Insights and Analysis
 * In this task the final dashboard created was presented to the authorities to explain the key findings and conclusions obtained.
 
-## :bulb: Dashboard
-The dashboard created :
-![Dashboard](https://github.com/user-attachments/assets/af9ff20e-e3ec-4989-8ac7-6e917096d461)
+
 
 
