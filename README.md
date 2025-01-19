@@ -1,4 +1,4 @@
-# TATA Data Visualisation 
+# TATA Data Visualisation
 In this program, I had the opportunity to explore the exciting world of data visualization with Tata iQ and uncovered valuable insights from massive datasets!
 
 ## :bulb: Objectives
