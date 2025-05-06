@@ -11,7 +11,7 @@ The program is designed to enhance your data visualization skills through follow
 
 ## :bulb: Tools Used
 * Tools : Tableau
-* Keywords: Data Analysis, Data Visualization, Data Interpretation 
+* Keywords: Product Demand, Revenue Generation, Data Analysis, Data Visualization, Data Interpretation 
 
 ## :bulb: Dashboard
 The dashboard created :
